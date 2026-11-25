@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnpaul1&label=Profile%20views&color=0e75b6&style=flat" alt="mnpaul1" /> </p>
 
-- 🔭 I’m currently working on [LearnX](https://clever-pink-cougar.cyclic.app/)
+- 🔭 I’m currently working on training a new AI model.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
